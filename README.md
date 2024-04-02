@@ -15,4 +15,9 @@ FOR EXAMPLE: As an intern, I want to add, delete, and update my tasks for the da
 - Functional Requirements: Describe what the application should do or should not do, they usually begin with "the application must" or "the application shall".
 - Non-functional Requirements: Describe how the application should achieve its tasks.
   
-4. ARCHITECTURE - 
+4. ARCHITECTURE
+   POTENTIAL NOUNS - Tasks, Routine, Schedule
+   POTENTIAL CLASSES - Task, To-Do List, GUI
+   
+
+    
