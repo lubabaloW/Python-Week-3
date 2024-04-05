@@ -20,6 +20,19 @@ FOR EXAMPLE: As an intern, I want to add, delete, and update my tasks for the da
    POTENTIAL CLASSES - Task, To-Do List, GUI
 
 
+#STUB CODE EXAMPLE
+class DailyDigestEmail:
+    def _init_(self):
+        pass
+    def send_email(self):
+        pass
+    def format_message(self):
+        pass
+
+    if __name__ == '_main_':
+        pass
+
+
    
 
     
